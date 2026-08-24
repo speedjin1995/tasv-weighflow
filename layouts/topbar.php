@@ -181,7 +181,7 @@ $count2 = count($salesList2) + count($purchaseList2) + count($localList2) + coun
                             <img src="assets/images/logo-sm.png" alt="" height="22">
                         </span>
                         <span class="logo-lg">
-                            <img src="assets/images/logo-lg.png" alt="" height="17">
+                            <img src="assets/images/logo.png" alt="" height="17">
                         </span>
                     </a>
 
@@ -190,7 +190,7 @@ $count2 = count($salesList2) + count($purchaseList2) + count($localList2) + coun
                             <img src="assets/images/logo-sm.png" alt="" height="22">
                         </span>
                         <span class="logo-lg">
-                            <img src="assets/images/logo-lg.png" alt="" height="17">
+                            <img src="assets/images/logo.png" alt="" height="17">
                         </span>
                     </a>
                 </div>

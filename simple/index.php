@@ -367,7 +367,7 @@ to get the desired effect
     <a href="#" class="brand-link logo-switch">
       <!-- <img src="assets/logo.png" alt="Sneakercube Logo" class="brand-image-xl logo-xs"> -->
       <div class="brand-image-xl logo-xl">
-        <img src="../assets/images/logo-lg.png" alt="Sneakercube Logo" width="85%">
+        <img src="../assets/images/logo.png" alt="Sneakercube Logo" width="85%">
       </div>
       <div class="text-center" style="margin-top: 40%">
         <h6 style="font-size:60%"><b></b></h6>
