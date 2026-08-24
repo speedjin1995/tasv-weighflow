@@ -5,7 +5,7 @@
         <!-- Dark Logo-->
         <a href="index.php" class="logo logo-dark">
             <span class="logo-sm">
-                <img src="assets/images/logo-sm.jpg" alt="" height="70">
+                <img src="assets/images/logo-sm.png" alt="" height="70">
             </span>
             <span class="logo-lg">
                 <img src="assets/images/logo-lg.png" alt="" height="60">
@@ -14,7 +14,7 @@
         <!-- Light Logo-->
         <a href="index.php" class="logo logo-light">
             <span class="logo-sm">
-                <img src="assets/images/logo-sm.jpg" alt="" height="70">
+                <img src="assets/images/logo-sm.png" alt="" height="70">
             </span>
             <span class="logo-lg">
                 <img src="assets/images/logo-lg.png" alt="" height="60">
